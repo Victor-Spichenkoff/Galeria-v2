@@ -1,0 +1,42 @@
+body {
+    background-color: lavender;
+    text-align: center;
+}
+
+img {
+    width: 700px;
+    height: 560px;
+}
+
+p {
+    font-size: 30px;
+}
+
+div.imagens {
+    display: inline-block;
+    position: relative;
+    border: 10px rgb(146, 90, 6) ridge;
+}
+
+#botaoProximo {
+    position: absolute;
+    top: 50%;
+    right: 30px;
+    color: aliceblue;
+    font-size: 40px;
+    background-color: none;
+}
+
+span#botaoVoltar {
+    position: absolute;
+    top: 50%;
+    left: 30px;
+    color: aliceblue;
+    font-size: 40px;
+}
+
+main {
+    text-align: center;
+    margin:auto;
+}
+
